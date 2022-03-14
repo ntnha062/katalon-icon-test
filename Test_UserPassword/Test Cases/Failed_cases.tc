@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Failed_cases</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1aea4537-6168-4152-abc7-0cfe9a75138d</testCaseGuid>
+   <variable>
+      <defaultValue>['https://katalon.com', 'http://sssawxdfghaerh.vn']</defaultValue>
+      <description></description>
+      <id>5e72406b-8b26-4f11-98e8-e308c298f31e</id>
+      <masked>false</masked>
+      <name>lst</name>
+   </variable>
+</TestCaseEntity>
